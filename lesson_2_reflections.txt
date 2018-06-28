@@ -1,0 +1,10 @@
+#What happens when you initialize a repository? Why do you need to do it?
+
+*When you intialize a repository, you create an empty repository in a directory
+*You need to do this to create a new repository from scratch
+
+#How is the staging area different from the working directory and the 
+#repository? What value do you think it offers?
+
+*the staging directory is the are where files are put from the working directory prior 
+*to being committed to the repository
