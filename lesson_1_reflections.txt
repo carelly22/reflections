@@ -37,3 +37,8 @@
 
 *you would know that you can easily revert to an earlier version of your code before it was broken
 *can use git diff to see what was changed and how to fix the bug that was introduced
+
+#Now that you have your workspace set up, what do you want to try using Git for?
+
+*I'd like to use Git for version control on all of my future projects
+*To better understand best practices for programming and to become a better programmer
