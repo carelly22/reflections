@@ -25,3 +25,10 @@
 *Git is more tailored to programmers and version control for code
 *many of these commits will involve multiple files, so it allows saving multiple files in one commit
 *Google Docs doesn't allow this, as you are generally not editing multiple files at the same time
+
+#How can you use the commands git log and git diff to view the history of files?
+
+*use git log to see when changes were made
+*check for pluses and minuses in the logs
+*then choose the two commits you would like to view 
+*use git --diff and compare the two commits' history and any changes made between them
