@@ -8,3 +8,13 @@
 *You can easily see when certain changes were made
 *Can easily correct mistakes if you know when the file was edited
 *Can revert the file back to a time when there was not a mistake
+
+#What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs 
+#having versions automatically saved, like Google Docs does?
+
+*Pros
+*user-chosen commit, more likely to have a purpose
+*more likely to be correctly sized commit
+
+*Cons
+*based on user judgement, can make a bad judgement call on the size of the commit
