@@ -34,3 +34,10 @@
 
 *the diagrams help you visualize the branch structure by clearly showing you the 
 *parents of each commit and how the parts of a branch relate to each other
+
+#What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+*when you merge two branches together, you essentially combine all of the commits of both of the branches 
+*so the history of the changes are preserved with details of both parents
+*we represent it in the diagram the way we do, because of what was just explained (the merge contains 
+all of the details of commits for both parents of the new merged commit)
