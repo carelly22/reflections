@@ -29,3 +29,8 @@
 *experimental branch of new features which you're working on but you fully expect
 *them to break; not production quality - communicate this to your audience
 *good to collaborate with yourself as well - can context switch
+
+#How do the diagrams help you visualize the branch structure?
+
+*the diagrams help you visualize the branch structure by clearly showing you the 
+*parents of each commit and how the parts of a branch relate to each other
