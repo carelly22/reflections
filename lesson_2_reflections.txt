@@ -2,3 +2,12 @@
 
 *When you intialize a repository, you create an empty repository in a directory
 *You need to do this to create a new repository from scratch
+
+#How is the staging area different from the working directory and the 
+#repository? What value do you think it offers?
+
+*the staging directory is the are where files are put from the working directory prior 
+*to being committed to the repository
+*it allows you to make sure that you are committing exactly what you want to commit
+*you can check to see what you are committing here first to be sure before making 
+*the commit
