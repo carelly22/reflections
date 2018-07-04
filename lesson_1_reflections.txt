@@ -3,3 +3,8 @@
 *There was a smaller amount of code to look through
 *It was easy to see what changed with the + and - structure
 
+#How did having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+*You can easily see when certain changes were made
+*Can easily correct mistakes if you know when the file was edited
+*Can revert the file back to a time when there was not a mistake
