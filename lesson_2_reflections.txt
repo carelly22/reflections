@@ -16,3 +16,16 @@
 
 *you can use the staging area to make sure you've made one logical commit per change by
 *comparing your working directory and the staging area 
+
+#What are some situations when branches would be helpful in keeping your history 
+#organized? How would branches help?
+
+*create a new branch when you're moving on to a different piece of work, doing something 
+*different, switching contexts
+*example: when you're correcting a bug or working on a new feature
+*help you to stay organised esp when you're sharing your work publicly 
+*you have your master branch which is your production quality work which never breaks 
+*then can have a dev branch where active work is taking place 
+*experimental branch of new features which you're working on but you fully expect
+*them to break; not production quality - communicate this to your audience
+*good to collaborate with yourself as well - can context switch
