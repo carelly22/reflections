@@ -18,3 +18,10 @@
 
 *Cons
 *based on user judgement, can make a bad judgement call on the size of the commit
+
+#Why do you think some version control systems, like Git, allow saving multiple files in one 
+#commit, while others, like Google Docs, treat each file separately?
+
+*Git is more tailored to programmers and version control for code
+*many of these commits will involve multiple files, so it allows saving multiple files in one commit
+*Google Docs doesn't allow this, as you are generally not editing multiple files at the same time
