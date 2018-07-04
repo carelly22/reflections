@@ -32,3 +32,8 @@
 *check for pluses and minuses in the logs
 *then choose the two commits you would like to view 
 *use git --diff and compare the two commits' history and any changes made between them
+
+#How might using version control make you more confident to make changes that could break something?
+
+*you would know that you can easily revert to an earlier version of your code before it was broken
+*can use git diff to see what was changed and how to fix the bug that was introduced
