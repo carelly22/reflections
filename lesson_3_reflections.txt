@@ -3,3 +3,12 @@ local?
 
 *You would want to use a remote repository if you are working from a computer that 
 *is not your own, or if you are collaborating with someone else on a project.
+
+#Why might you want to always pull changes manually rather than having Git 
+#automatically stay up-to-date with your remote repository?
+
+*You would want to always pull changes manually rather than having Git 
+*automatically stay up-to-date with your remote repository, as you will 
+*not always want all of the changes that are being added to the remote
+*repository, especially if some of the changes to the remote are just 
+*parts of a feature that you have no involvement in 
