@@ -12,3 +12,18 @@ local?
 *not always want all of the changes that are being added to the remote
 *repository, especially if some of the changes to the remote are just 
 *parts of a feature that you have no involvement in 
+
+#Describe the differences between forks, clones, and branches. 
+#When would you use one instead of another?
+
+*A fork is a copy of another repo on the GH servers
+*A clone is a copy of a repository from GH to a local machine 
+*or from a location on a local machine to another local on the same machine
+*A branch is an addition to a repository
+
+*You use forks when you would like to edit someone else's repo and you don't 
+*necessarily have their permission to directly edit it
+*You would use a clone when you're downloading a repo from GH to your local 
+*machine to make changes
+*You would use a branch when you are working on a new or experimental feature
+*and you don't expect it to be production quality ie. there may be bugs
